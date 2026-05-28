@@ -1,5 +1,3 @@
 __pycache__/
 .ipynb_checkpoints/
 *.log
-*.tmp
-.DS_Store
