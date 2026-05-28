@@ -56,3 +56,4 @@ premier-league-stats-analyzer/
 ├── .gitignore
 └── README.md
 
+Se agregaron mejoras de documentación.
